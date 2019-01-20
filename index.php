@@ -37,8 +37,8 @@
     <link rel="stylesheet" href="css/reImageGrid.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
-    <!-- Modernizr Js 
-    <script src="js/modernizr-2.8.3.min.js"></script>-->
+    <!-- Modernizr Js -->
+    <script src="js/modernizr-2.8.3.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
