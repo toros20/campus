@@ -30,7 +30,7 @@
     <!-- Datetime Picker Style CSS -->
     <link rel="stylesheet" href="css/jquery.datetimepicker.css">
     <!-- Magic popup CSS -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
     <!-- Switch Style CSS -->
     <link rel="stylesheet" href="css/hover-min.css">
     <!-- ReImageGrid CSS -->

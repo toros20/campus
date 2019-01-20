@@ -20,8 +20,8 @@
     <!-- Font-awesome CSS-->
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- Owl Caousel CSS -->
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
+    <!-- <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css"> -->
     <!-- Main Menu CSS -->
     <link rel="stylesheet" href="css/meanmenu.min.css">
     <!-- nivo slider CSS -->
@@ -32,7 +32,7 @@
      <!-- Select2 CSS -->
     <link rel="stylesheet" href="css/select2.min.css">
     <!-- Magic popup CSS -->
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
     <!-- Switch Style CSS -->
     <link rel="stylesheet" href="css/hover-min.css">
      <!-- Nouislider Style CSS -->
