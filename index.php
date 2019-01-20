@@ -824,7 +824,7 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_prebasica" width="95%" height="315" src="https://www.youtube.com/embed/2XsdnFbcZpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    <iframe src="" id="iframe_prebasica" width="95%" height="315" data-src="https://www.youtube.com/embed/2XsdnFbcZpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                         
                     </iframe>
               </div>
@@ -845,7 +845,7 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_basica" width="95%" height="315" src="https://www.youtube.com/embed/IBrTQ2nziYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="" id="iframe_basica" width="95%" height="315" data-src="https://www.youtube.com/embed/IBrTQ2nziYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
@@ -864,7 +864,7 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_media" width="95%" height="315" src="https://www.youtube.com/embed/vmvw3XYb3pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="" id="iframe_media" width="95%" height="315" data-src="https://www.youtube.com/embed/vmvw3XYb3pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
