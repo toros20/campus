@@ -30,7 +30,7 @@
     <!-- Datetime Picker Style CSS -->
     <link rel="stylesheet" href="css/jquery.datetimepicker.css">
     <!-- Magic popup CSS -->
-    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
+    <link rel="stylesheet" href="css/magnific-popup.css">
     <!-- Switch Style CSS -->
     <link rel="stylesheet" href="css/hover-min.css">
     <!-- ReImageGrid CSS -->
@@ -41,7 +41,14 @@
     <script src="js/modernizr-2.8.3.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129066917-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-129066917-1');
+</script>
    
 </head>
 
@@ -817,7 +824,9 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    
+                    <iframe id="iframe_prebasica" width="95%" height="315" src="https://www.youtube.com/embed/2XsdnFbcZpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                        
+                    </iframe>
               </div>
               <div class="modal-footer">
                 
@@ -836,7 +845,7 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    
+                    <iframe id="iframe_basica" width="95%" height="315" src="https://www.youtube.com/embed/IBrTQ2nziYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
@@ -855,7 +864,7 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                   
+                    <iframe id="iframe_media" width="95%" height="315" src="https://www.youtube.com/embed/vmvw3XYb3pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
