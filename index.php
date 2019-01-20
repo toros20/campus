@@ -20,8 +20,8 @@
     <!-- Font-awesome CSS-->
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- Owl Caousel CSS -->
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
+   <!--  <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css"> -->
     <!-- Main Menu CSS -->
     <link rel="stylesheet" href="css/meanmenu.min.css">
     <!-- nivo slider CSS -->
@@ -40,7 +40,15 @@
     <!-- Modernizr Js -->
     <script src="js/modernizr-2.8.3.min.js"></script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129066917-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-129066917-1');
+</script>
    
 </head>
 
