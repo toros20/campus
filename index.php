@@ -2,11 +2,23 @@
 <html class="no-js" lang="">
 
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>San Jos&eacute; del Carmen| Tegucigalpa Honduras</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129066917-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-129066917-1');
+    </script>
+
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <!-- Normalize CSS -->
@@ -39,16 +51,6 @@
     <link rel="stylesheet" href="style.css">
     <!-- Modernizr Js -->
     <script src="js/modernizr-2.8.3.min.js"></script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129066917-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-129066917-1');
-</script>
    
 </head>
 
@@ -824,9 +826,9 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_prebasica" width="95%" height="315" src="https://www.youtube.com/embed/2XsdnFbcZpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                        
-                    </iframe>
+                
+                 <iframe id="iframe_prebasica" width="95%" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>                       
+                </iframe>
               </div>
               <div class="modal-footer">
                 
@@ -845,7 +847,8 @@
                 <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_basica" width="95%" height="315" src="https://www.youtube.com/embed/IBrTQ2nziYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+                 <iframe id="iframe_basica" width="95%" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
@@ -861,10 +864,11 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h4 class="modal-title" id="myModalLabel">Pre-B&aacute;sica</h4>
+                <h4 class="modal-title" id="myModalLabel">Media</h4>
               </div>
               <div class="modal-body">
-                    <iframe id="iframe_media" width="95%" height="315" src="https://www.youtube.com/embed/vmvw3XYb3pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+                 <iframe id="iframe_media" width="95%" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <div class="modal-footer">
                 
