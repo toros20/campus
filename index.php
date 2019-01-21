@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <!-- Owl Caousel CSS -->
     <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css"> -->
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
     <!-- Main Menu CSS -->
     <link rel="stylesheet" href="css/meanmenu.min.css">
     <!-- nivo slider CSS -->
