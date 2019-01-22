@@ -67,7 +67,7 @@
         <!-- Header Area Start Here -->
         <header>
             <?php include 'header.html' ?>
-        </header>
+        </header> 
         <!-- Header Area End Here -->
         <!-- Slider 1 Area Start Here -->
         <div class="slider1-area ">
@@ -816,6 +816,33 @@
             </div>
         </div>
         <!-- Students Join 1 Area End Here -->
+
+        <!-- Modal PREBASICA-->
+        <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Listados de Libros de Texto</h4>
+              </div>
+              <div class="modal-body">
+
+                <a style="text-align:center;" href="pdf/LISTAS_UTILES_2019_primaria.pdf" target="_blank">
+                    <h5> Descargar Listados de libros de Pre-Básica y Primaria</h5> 
+                </a>
+
+                <a style="text-align:center;" href="pdf/Lista_utiles_secundaria.pdf" target="_blank">
+                    <h5> Descargar Listados de libros de Secundaria</h5> 
+                </a>
+                 
+              </div>
+
+              <div class="modal-footer">
+                <button onclick="cerrar_modal1()" type="button" class="btn btn-primary">Cerrar</button>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
 
         <!-- Modal PREBASICA-->
         <div class="modal fade" id="modal_prebasica" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

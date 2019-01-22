@@ -1,3 +1,8 @@
+/*codigo para cerrar el modal de popup inicial*/
+function cerrar_prebasica(){
+
+    $("#modal1").modal('hide');
+}
 /*codigo para cerrar el modal y apagar el video al dar click en boton cerrar del modal*/
 function cerrar_prebasica(){
 
@@ -186,6 +191,8 @@ $("#modal_media").on('hidden.bs.modal', function () {
         $("#iframe_basica").attr('src','https://www.youtube.com/embed/IBrTQ2nziYY');  
         $("#iframe_media").attr('src','https://www.youtube.com/embed/vmvw3XYb3pA');  
 
+
+
     });
 
     /*-------------------------------------
@@ -217,6 +224,9 @@ $("#modal_media").on('hidden.bs.modal', function () {
         $('#preloader').fadeOut('slow', function() {
             $(this).remove();
         });
+
+        //modal para el popup de inicio
+        $("#modal1").modal('show');
 
         /*-------------------------------------
          jQuery for Isotope initialization
