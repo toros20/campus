@@ -831,7 +831,7 @@
                     <h5> Descargar Listados de utiles de Pre-Básica</h5> 
                 </a> -->
 
-                <a style="text-align:center;" href="pdf/lista_de_primaria.pdf" target="_blank">
+                <a style="text-align:center;" href="pdf/LISTAS_UTILES_2019_primaria.pdf" target="_blank">
                     <h5> Descargar Listados de libros de Primaria</h5> 
                 </a>
 
