@@ -1,5 +1,5 @@
 /*codigo para cerrar el modal de popup inicial*/
-function cerrar_prebasica(){
+function cerrar_modal1(){
 
     $("#modal1").modal('hide');
 }
