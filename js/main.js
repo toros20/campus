@@ -226,7 +226,7 @@ $("#modal_media").on('hidden.bs.modal', function () {
         });
 
         //modal para el popup de inicio
-       $("#modal1").modal('show');
+       //$("#modal1").modal('show');
 
         /*-------------------------------------
          jQuery for Isotope initialization
@@ -633,4 +633,16 @@ $("#modal_media").on('hidden.bs.modal', function () {
     if(vidDefer[i].getAttribute('data-src')) {
     vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
     } } }
+
+    Bi Tecnology  13 años //#endregion
+
+    aumentar la productividad //#endregion
+    optimizar losprocesos 
+    
+    soluciones tecnologicas en  general
+
+    microsoft dell //#endregion ESET, amazone, adobe 
+
+    certificados en office
+
     window.onload = init; */
