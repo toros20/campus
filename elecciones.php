@@ -58,6 +58,7 @@
 
                     <div style="float:center"  align="center">
                         <form action="votosecundaria.php" method="get" align="center">
+                            <h3>Votaciones de Secundaria</h3>
                             <h3 align="center">Ingrese su c&oacute;digo de Votaci&oacute;n</h3>
                             <input style="width:250px;" required name="cuenta" id="cuenta" autofocus class="form-control" minlength = "6" maxlength="6">
                             <?php echo "<br />"; ?>
