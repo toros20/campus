@@ -62,7 +62,11 @@
 
                     <div style="float:center"  align="center">
                         
+<<<<<<< HEAD
                     <h3>Lo sentimos, este número de cuenta ya realizó su voto. </h3>
+=======
+                    <h3>Lo sentimos, este número de cuenta ya realizo su voto. </h3>
+>>>>>>> origin/master
                     <h4>Codigo Ingresado: <?php echo $cuenta?></h4>
 			       
 				    <?php echo "<br />";echo "<br />"; ?>
