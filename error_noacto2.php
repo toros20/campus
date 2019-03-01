@@ -1,7 +1,5 @@
-    <?php
-        
+<?php
          $cuenta=$_GET['cuenta'];
-
     ?>
     <!doctype html>
     <html class="no-js" lang="">
@@ -62,19 +60,17 @@
 
                     <div style="float:center"  align="center">
                         
-                    <h3>Lo sentimos, este número de cuenta ya realizó su voto. </h3>
+                    <h3>Lo sentimos, este c&oacute;digo no es acto para votar. </h3>
                     <h4>Codigo Ingresado: <?php echo $cuenta?></h4>
-			       
-				    <?php echo "<br />";echo "<br />"; ?>
-					<div style="text-align: center;"   align="center" ><a href="../elecciones.php">
+                    <?php echo "<br />";echo "<br />"; ?>
+                    <div style="text-align: center;"   align="center" ><a href="../elecciones_primaria.php">
                         <button type="button" style="text-align: center;" 
                                 class="btn-lg btn btn-primary">
                                 <i class="fa fa-home" > Regresar</i>
                         </button>
                         </a></div>
-                        
-                    </div>
-                </div>
+                            </div>
+                        </div>
 
                 </div>
             </div>
@@ -86,7 +82,7 @@
                         <div align="center" class="row">
                             
                             <div align="center"  class="footer-about">
-                                <H3>C.E.M.N.G. SAN JOSÉ DEL CARMEN</H3>
+                                <H3>C.E.B.N.G. SAN JOSÉ DEL CARMEN</H3>
                             </div>
                                 
                                

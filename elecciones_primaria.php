@@ -1,15 +1,11 @@
-    <?php
-        
-         $cuenta=$_GET['cuenta'];
 
-    ?>
     <!doctype html>
     <html class="no-js" lang="">
 
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Elecciones | Estudiantiles</title>
+        <title>Primaria | Estudiantiles</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -61,17 +57,14 @@
                 <div class="row" align="center" >
 
                     <div style="float:center"  align="center">
-                        
-                    <h3>Lo sentimos, este número de cuenta ya realizó su voto. </h3>
-                    <h4>Codigo Ingresado: <?php echo $cuenta?></h4>
-			       
-				    <?php echo "<br />";echo "<br />"; ?>
-					<div style="text-align: center;"   align="center" ><a href="../elecciones.php">
-                        <button type="button" style="text-align: center;" 
-                                class="btn-lg btn btn-primary">
-                                <i class="fa fa-home" > Regresar</i>
-                        </button>
-                        </a></div>
+                        <form action="votoprimaria.php" method="get" align="center">
+                            <h3>Votaciones de Primaria</h3>
+                            <h3 align="center">Ingrese su c&oacute;digo de Votaci&oacute;n</h3>
+                            <input style="width:250px;" required name="cuenta" id="cuenta" autofocus class="form-control" minlength = "6" maxlength="6">
+                            <?php echo "<br />"; ?>
+                            <button  type="submit" style=" width:33%;" class="btn btn-success">
+                            <i class="fa fa-pencil" > Siguiente  </i></button>
+                        </form>
                         
                     </div>
                 </div>
@@ -86,7 +79,7 @@
                         <div align="center" class="row">
                             
                             <div align="center"  class="footer-about">
-                                <H3>C.E.M.N.G. SAN JOSÉ DEL CARMEN</H3>
+                                <H3>C.E.B.N.G. SAN JOSÉ DEL CARMEN</H3>
                             </div>
                                 
                                
