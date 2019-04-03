@@ -125,12 +125,12 @@
                                     <div class="courses-box1">
                                         <div class="single-item-wrapper">
                                             <div>
-                                                <img class="img-responsive" src="img/candidatos/sofia_martinez.png" >
+                                                <img class="img-responsive" src="img/candidatos/katherine.png" >
                                                 <a href="#"></a>
                                             </div>
                                             <div class="courses-content-wrapper">
-                                                <h3 class="item-title"><a href="#">SOF&Iacute;A MART&Iacute;NEZ</a></h3>
-                                                <p class="item-content">S&Eacute;PTIMO GRADO B</p>
+                                                <h3 class="item-title"><a href="#">KATHERINE HERNANDEZ</a></h3>
+                                                <p class="item-content">S&Eacute;PTIMO GRADO A</p>
                                                 <button id ="btn_1" onclick="votar(1)" style="width:95%" class="btn btn-primary btn-lg">Votar</button>
                                             </div>
                                         </div>

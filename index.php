@@ -193,7 +193,7 @@
                                 <div class="news-content-holder">
                                     <h3>  <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_media" >Media</a></h3>
                                     <div class="post-date">Salones audiovisuales y canchas sint&eacute;ticas</div>
-                                    <p>Ven y conoce nuestras amplias instalaciones para los estudiantes de educaci&onacute; media.</p>
+                                    <p>Ven y conoce nuestras amplias instalaciones para los estudiantes de educaci&oacute;n media.</p>
                                 </div>
                             </li>
                         </ul>
