@@ -167,10 +167,12 @@
                         <ul class="news-wrapper news-wrapper-responsive wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".2s">
                             <li>
                                 <div class="news-img-holder">
-                                    <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_prebasica"><img width="150px" src="img/tour/prebasica.JPG" class="img-responsive" alt="prebasica san jose del carmen"></a>
+                                    <!-- <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_prebasica"><img width="150px" src="img/tour/prebasica.JPG" class="img-responsive" alt="prebasica san jose del carmen"></a> -->
+                                    <a href="prebasica.php"><img width="150px" src="img/tour/prebasica.JPG" class="img-responsive" alt="prebasica san jose del carmen"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3>  <a style="cursor: pointer;"  data-toggle="modal" data-target="#modal_prebasica" >Pre-B&aacute;sica</a></h3>
+                                    <!-- <h3>  <a style="cursor: pointer;"  data-toggle="modal" data-target="#modal_prebasica" >Pre-B&aacute;sica</a></h3> -->
+                                    <h3>  <a href="prebasica.php" >Pre-B&aacute;sica</a></h3>
                                    
                                     <div class="post-date">Instalaciones equipadas con pizarras interactivas</div>
                                     <p>Ven y Conoce nuestas &aacute;reas exclusivas para estudiantes de Pre-B&aacute;sica.</p>
@@ -178,20 +180,24 @@
                             </li>
                             <li>
                                 <div class="news-img-holder">
-                                    <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_basica"><img width="150px" src="img/tour/basica1.png" class="img-responsive" alt="Educacion Basica San Jose Del Carmen"></a>
+                                    <!-- <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_basica"><img width="150px" src="img/tour/basica1.png" class="img-responsive" alt="Educacion Basica San Jose Del Carmen"></a> -->
+                                    <a href="basica.php"><img width="150px" src="img/tour/basica1.png" class="img-responsive" alt="Educacion Basica San Jose Del Carmen"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3>  <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_basica" >B&aacute;sica</a></h3>
+                                    <!-- <h3>  <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_basica" >B&aacute;sica</a></h3> -->
+                                    <h3>  <a href="basica.php" >B&aacute;sica</a></h3>
                                     <div class="post-date">Moderno Edificio con aulas inteligentes</div>
                                     <p>Ven y conoce nuestro edificio para los estudiantes de educaci&oacute;n b&aacute;sica (1-6 grado).</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="news-img-holder">
-                                    <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_media"><img width="150px" src="img/tour/media.png" class="img-responsive" alt="Educaion Media San Jose del Carmen"></a>
+                                    <!-- <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_media"><img width="150px" src="img/tour/media.png" class="img-responsive" alt="Educaion Media San Jose del Carmen"></a> -->
+                                    <a href="media.php"><img width="150px" src="img/tour/media.png" class="img-responsive" alt="Educaion Media San Jose del Carmen"></a>
                                 </div>
                                 <div class="news-content-holder">
-                                    <h3>  <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_media" >Media</a></h3>
+                                    <!-- <h3>  <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_media" >Media</a></h3> -->
+                                    <h3>  <a href="media.php" >Media</a></h3>
                                     <div class="post-date">Salones audiovisuales y canchas sint&eacute;ticas</div>
                                     <p>Ven y conoce nuestras amplias instalaciones para los estudiantes de educaci&oacute;n media.</p>
                                 </div>

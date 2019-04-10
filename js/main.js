@@ -187,9 +187,9 @@ $("#modal_media").on('hidden.bs.modal', function () {
 
         });
 
-        $("#iframe_prebasica").attr('src','https://www.youtube.com/embed/2XsdnFbcZpU');  
+        /*$("#iframe_prebasica").attr('src','https://www.youtube.com/embed/2XsdnFbcZpU');  
         $("#iframe_basica").attr('src','https://www.youtube.com/embed/IBrTQ2nziYY');  
-        $("#iframe_media").attr('src','https://www.youtube.com/embed/vmvw3XYb3pA');  
+        $("#iframe_media").attr('src','https://www.youtube.com/embed/vmvw3XYb3pA'); */ 
 
 
 
