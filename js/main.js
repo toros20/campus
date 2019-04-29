@@ -221,12 +221,12 @@ $("#modal_media").on('hidden.bs.modal', function () {
     $(window).on('load', function() {
 
         // Page Preloader
-        $('#preloader').fadeOut('slow', function() {
+        $('#preloader').fadeOut('speed', function() {
             $(this).remove();
         });
 
         //modal para el popup de inicio
-       //$("#modal1").modal('show');
+       $("#modal1").modal('show');
 
         /*-------------------------------------
          jQuery for Isotope initialization
