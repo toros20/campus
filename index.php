@@ -829,14 +829,14 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h4 class="modal-title" id="myModalLabel">Comunicado 04 de Mayo del 2019</h4>
+                <h4 class="modal-title" id="myModalLabel">Horario de Salida para el 10 de Mayo</h4>
               </div>
               <div class="modal-body">
 
                 <!-- <a style="text-align:center;" href="pdf/Lista_utiles_secundaria.pdf" target="_blank">
                     <h5> Descargar Listados de utiles de Pre-Básica</h5> 
                 </a> -->
-                <img src="img/comunidado_lunes_6.png" alt="">
+                <img src="img/salida_10_de_mayo.png" alt="">
                  
               </div>
 
