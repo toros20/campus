@@ -225,8 +225,11 @@ $("#modal_media").on('hidden.bs.modal', function () {
             $(this).remove();
         });
 
-        //modal para el popup de inicio
-       $("#modal1").modal('show');
+        //************************* */modal para el popup de inicio
+
+         //$("#modal1").modal('show');
+         
+        //************************* */modal para el popup de inicio
 
         /*-------------------------------------
          jQuery for Isotope initialization
