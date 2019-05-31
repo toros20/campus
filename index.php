@@ -836,7 +836,7 @@
                 <!-- <a style="text-align:center;" href="pdf/Lista_utiles_secundaria.pdf" target="_blank">
                     <h5> Descargar Listados de utiles de Pre-Básica</h5> 
                 </a> -->
-                <img src="img/Comunicado.jpg" alt="">
+                <img src="img/Comunicado(1).PNG alt="">
                  
               </div>
 
