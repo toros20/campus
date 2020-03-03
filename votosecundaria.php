@@ -10,9 +10,9 @@
    $num_codigo = mysqli_num_rows($res1);
 
    if ($num_codigo==0) {
-        header('Location:https://elecciones2019.000webhostapp.com/error_noacto.php?cuenta='.$cuenta);
+        header('Location:https://isjc2020.000webhostapp.com/error_noacto.php?cuenta='.$cuenta);
    } 
- 
+  
     if ($num_codigo!=0) { //codigo acto para votar
    
         //validamos si este alumno ya voto
@@ -24,7 +24,7 @@
         $numero_filas = mysqli_num_rows($res);
 
         if ($numero_filas>0) {
-             header('Location:https://elecciones2019.000webhostapp.com/error_yavoto.php?cuenta='.$cuenta);			
+             header('Location:https://isjc2020.000webhostapp.com/error_yavoto.php?cuenta='.$cuenta);			
         }
 
         if ($numero_filas==0): ?>
