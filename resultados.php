@@ -112,7 +112,7 @@
 
     <div class="courses-page-area2">
         <div class="container" id="pagina" style="text-align:center">
-                <h4>Resultados de las Votaciones Estudiantiles 2019.</h4>
+                <h4>Resultados de las Votaciones Estudiantiles 2020.</h4>
 	            <h4>Total de Votos Realizado: <?php echo $fila['total']; ?></h4>
             <div class="row featuredContainer">
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 diploma cse english">
