@@ -85,15 +85,18 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="contact-us-info1">
                             <ul>
+                               
                                 <li>
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     <h3>Tel&eacute;fono</h3>
                                     <p>(+504) 2221-4474 /75</p>
+                                    <p>Hermana Alicia Nij Pátzan</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-whatsapp" aria-hidden="true"></i>
                                     <h3>WhatsApp</h3>
                                     <p>(+504) 9439-2201</p>
+                                    <p>Hermana Patricia Esquivel</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -105,12 +108,12 @@
                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                     <h3>E-mail</h3>
                                     <p>info@sanjosedelcarmen.edu.hn</p>
+                                    <p>Madre María de Jesús del Cíd</p>
                                 </li>
                                 <li>
                                     <h3>Nuestra Red Social</h3>
                                     <ul class="contact-social">
                                         <li><a target="_blank" href="https://www.facebook.com/Instituto-San-José-Del-Carmen-438337142902297"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                       
                                     </ul>
                                 </li>
                             </ul>
