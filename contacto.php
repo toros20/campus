@@ -90,13 +90,13 @@
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     <h3>Tel&eacute;fono</h3>
                                     <p>(+504) 2221-4474 /75</p>
-                                    <p>Hermana Alicia Nij Pátzan</p>
+                                    <p>Hermana Alicia Nij Pátzan (Administradora)</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-whatsapp" aria-hidden="true"></i>
                                     <h3>WhatsApp</h3>
                                     <p>(+504) 9439-2201</p>
-                                    <p>Hermana Patricia Esquivel</p>
+                                    <p>Hermana Patricia Esquivel (Sud Directora)</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -108,7 +108,7 @@
                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                     <h3>E-mail</h3>
                                     <p>info@sanjosedelcarmen.edu.hn</p>
-                                    <p>Madre María de Jesús del Cíd</p>
+                                    <p>Madre María de Jesús del Cíd (Directora)</p>
                                 </li>
                                 <li>
                                     <h3>Nuestra Red Social</h3>
