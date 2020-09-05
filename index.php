@@ -73,10 +73,10 @@
         <div class="slider1-area ">
             <div class="bend niceties preview-1">
                 <div id="ensign-nivoslider-3" class="slides">
-                     <img src="img/slider/sanjosedelcarmen5.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
-                     <img src="img/slider/sanjosedelcarmen11.png" alt="sanjosedelcarmen" title="#slider-direction-1" />
+                    <img src="img/slider/sanjosedelcarmen5.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
+                    <img src="img/slider/sanjosedelcarmen11.png" alt="sanjosedelcarmen" title="#slider-direction-1" />
                     <img src="img/slider/sanjosedelcarmen2.PNG" alt="sanjosedelcarmen" title="#slider-direction-2" />                   
-                    <img src="img/slider/sanjosedelcarmen6.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
+                    <!-- <img src="img/slider/sanjosedelcarmen6.png" alt="sanjosedelcarmen" title="#slider-direction-3" /> -->
                     <img src="img/slider/sanjosedelcarmen4.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
                 </div>
                 <div id="slider-direction-1" class="t-cn slider-direction">
