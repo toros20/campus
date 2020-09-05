@@ -71,7 +71,7 @@
         </header>
 
 
-        <div class="inner-page-banner-area" style="background-image: url('img/banner/gsuit_banner.jpg');">
+        <!-- <div class="inner-page-banner-area" style="background-image: url('img/banner/gsuit_banner.jpg');"> -->
 
         </div>
         <!-- Inner Page Banner Area End Here -->
