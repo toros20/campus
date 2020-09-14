@@ -85,12 +85,15 @@
                                 <h2><a href="https://www.youtube.com/watch?v=0JANtCqyKaI"> Primer Ingreso a GSUIT</a></h2>
                                 <p>En este primer video aprenderemos como ingresar por primera vez a la plataforma de Gsuit. es necesario tener el acceso listo para seguir este video.
                                 </p>
+                                <p>
+                                    <a href="https://www.youtube.com/watch?v=0JANtCqyKaI"><button class="btn btn-success">Ver Video</a></button>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-img-holder">
-                        <a href="https://www.youtube.com/watch?v=0JANtCqyKaI"><img src="img/tutorial/1.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
+                        <a href="https://www.youtube.com/watch?v=0JANtCqyKaI"><img style="width:300px" src="img/tutorial/1.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
                         </div>
                     </div>
 
@@ -100,12 +103,16 @@
                                 <h2><a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"> Ingresar a Clases Virtuales</a></h2>
                                 <p>En este video aprenderemos como ingresar a las clases virtuales de Classroom y Google Meet. Es necesario que tengas acceso a la plataforma y puedas iniciar sesión para seguir este video.
                                 </p>
+
+                                <p>
+                                    <a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><button class="btn btn-success">Ver Video</a></button>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-img-holder">
-                        <a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><img src="img/tutorial/2.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
+                        <a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><img style="width:300px" src="img/tutorial/2.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
                         </div>
                     </div>
 
