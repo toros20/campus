@@ -96,6 +96,7 @@
                         <a target="_blank" href="https://www.youtube.com/watch?v=0JANtCqyKaI"><img style="width:300px" src="img/tutorial/1.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
                         </div>
                     </div>
+                </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-content-holder">
