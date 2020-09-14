@@ -82,27 +82,33 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-content-holder">
                             <div class="content-box">
-                                <h2>Tutoriales de GSUIT</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, sed nihil neque
-                                    consectetur dicta maiores explicabo deserunt, ullam enim dolorum necessitatibus
-                                    nulla? In iste, sed voluptatibus nihil commodi ipsum cupiditate!.
+                                <h2><a href="https://www.youtube.com/watch?v=0JANtCqyKaI"> Primer Ingreso a GSUIT</a></h2>
+                                <p>En este primer video aprenderemos como ingresar por primera vez a la plataforma de Gsuit. es necesario tener el acceso listo para seguir este video.
                                 </p>
                             </div>
-                            <!--  <div class="content-box">
-                                <h2>Te ofrecemos</h2>
-                                <p>Educaci&oacute;n completamente bilingüe. Nuestras instalaciones cuentan con
-                                    &aacute;rea privadas y seguras para pre-b&aacute;sica, con aulas modernas y docentes
-                                    profesionales en sus &aacute;reas. Brindamos seguro medico estudiant&iacute;l,
-                                    clases de computaci&oacute;n , canchas de futbol, capilla y academias
-                                    art&iacute;sticas en nuestro Polideportivo.</p>
-                            </div>  -->
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-img-holder">
-                            <img src="img/banner/Google_GSuite.jpg" class="img-responsive" alt="Tutorialse Gsuit">
+                        <a href="https://www.youtube.com/watch?v=0JANtCqyKaI"><img src="img/tutorial/1.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
                         </div>
                     </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="about-page-content-holder">
+                            <div class="content-box">
+                                <h2><a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"> Ingresar a Clases Virtuales</a></h2>
+                                <p>En este video aprenderemos como ingresar a las clases virtuales de Classroom y Google Meet. Es necesario que tengas acceso a la plataforma y puedas iniciar sesión para seguir este video.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="about-page-img-holder">
+                        <a href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><img src="img/tutorial/2.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
