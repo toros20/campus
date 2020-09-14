@@ -86,11 +86,12 @@
                                 <p>En este primer video aprenderemos como ingresar por primera vez a la plataforma de Gsuit. es necesario tener el acceso listo para seguir este video.
                                 </p>
                                 <p>
-                                    <a target="_blank" href="https://www.youtube.com/watch?v=0JANtCqyKaI"><button class="btn btn-success">Ver Video</a></button>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=0JANtCqyKaI"><button class="btn btn-info">Ver Video</a></button>
                                 </p>
                             </div>
                         </div>
                     </div>
+                    <hr />
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="about-page-img-holder">
                         <a target="_blank" href="https://www.youtube.com/watch?v=0JANtCqyKaI"><img style="width:300px" src="img/tutorial/1.png" class="img-responsive" alt="Tutorialse Gsuit"></a>
@@ -106,7 +107,7 @@
                                 </p>
 
                                 <p>
-                                    <a target="_blank" href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><button class="btn btn-success">Ver Video</a></button>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=aGYaQBPi6Nk"><button class="btn btn-info">Ver Video</a></button>
                                 </p>
                             </div>
                         </div>
