@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* color azul para la barra de navegacion*/
+.bg-light {
+    background-color: rgba(10, 47, 182, 0.88) !important;
+}
+
+
+/* color oscuro para el fondo de la pagina y color blanco para las letras*/
+body{
+	background-color: #181a1b;
+	    color: #fff;
+}
+    
+
+/* color oscuro para el interior de las etiquetas thumbnail*/
+.img-thumbnail {
+	    background-color: #181a1b;
+}
+
+
+/* color blanco para el titulo de la barra de busqueda*/
+.navbar-light .navbar-brand {
+    color: rgb(255 255 255);
+}
+
+
+/* color blanco para el boton inicio*/
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-
+ .nav-link.active {
+    color: rgb(255 255 255);
+}
+
+/* color blanco para los liks de la barra de busqueda*/
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+
+/* color blanco para el fondo del menu desplegable de la barra de busqueda*/
+.dropdown-menu {    
+           background-color: #181a1b;
+}
+
+
+/* color blanco para los links del menu desplegable de la barra de busqueda*/
+.dropdown-item {
+        color: #ffffff;
+}
+
+
+/* color negro transparente para el texto de los silders*/
+.carousel-caption{
+	background-color: rgba(0,0,0,0.60)
+}
+
+
+.espacio{
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgb(255 252 252);
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.espacio2{
+	margin-top: 40px;
+	margin-bottom: 10px;
+	background-color: #7b1620;
+	height: 105px;
+	vertical-align: text-bottom;
+}
+
+
+
+
+
+
+/* Resposive color negro transparente para el texto de los silders*/
+@media only screen and (max-width:750px){
+	
+	.carousel-caption{
+		background-color: rgba(0,0,0,0.35)
+	}
+}
+
+
+
+/*Estilo de los titulos de la pagina "Cuestionario del Himno"*/
+
+#Titulo{
+	width: 100%;
+	background-image:url("../images/fodotítulo.jpg");
+	height: 130px;
+	display: table;
+	}
+
+
+.subtitulo{
+	color:currentColor;
+	margin:auto;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.table{
+	
+
+	border-color: ivory;
+}
+
+
+
+
