@@ -773,6 +773,7 @@ h2.sidebar-title:before {
   -ms-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
+  
 }
 .apply-now-btn:hover {
   background: transparent;
@@ -1642,7 +1643,7 @@ h2.sidebar-title:before {
   color: #002147;
 }
 #preloader {
-  background: #002147 url('img/preloader.png') no-repeat scroll center center;
+  background: #002147 url('img/preloader_png.png') no-repeat scroll center center;
   height: 100%;
   left: 0;
   overflow: visible;
@@ -1853,6 +1854,12 @@ h2.sidebar-title:before {
     margin: 22px 0;
   }
 }
+
+.logo_workspace {
+  width: 200px;
+  height: 60px;
+}
+
 .main-menu-area .apply-btn-area {
   margin: 22px 0;
   text-align: right;

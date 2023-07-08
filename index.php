@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>San Jos&eacute; del Carmen| Tegucigalpa Honduras</title>
-    <meta name="description" content="">
+    <meta name="Instituto San jose del carmen, tegucigalpa Honduras" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
      <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -145,8 +145,8 @@
                         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 service-box1">
                             <div class="service-box-content">
                                 <h3><a href="media.php">Educaci&oacute;n Media</a></h3>
-                                <p> Bachilllerato Ingl&eacute;s y Español
-                                <br>BTP-Inform&aacute;tica</p>
+                                <p> Bachilllerato en Humanidades
+                                <br>Ingl&eacute;s y Español</p>
                             </div>
                             <div class="service-box-icon">
                                 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
@@ -228,7 +228,7 @@
                         <p>Docente Profesionales </p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".10s">
-                        <h2 class="about-counter title-bar-counter" data-num="54">55</h2>
+                        <h2 class="about-counter title-bar-counter" data-num="60">60</h2>
                         <p>Años de Fundaci&oacute;n</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 counter1-box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".10s">
