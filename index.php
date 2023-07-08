@@ -168,7 +168,7 @@
                             <li>
                                 <div class="news-img-holder">
                                     <!-- <a style="cursor: pointer;" data-toggle="modal" data-target="#modal_prebasica"><img width="150px" src="img/tour/prebasica.JPG" class="img-responsive" alt="prebasica san jose del carmen"></a> -->
-                                    <a href="prebasica.php"><img width="150px" src="img/tour/prebasica_lite.JPG" class="img-responsive" alt="prebasica san jose del carmen"></a>
+                                    <a href="prebasica.php"><img width="150px" src="img/tour/prebasica_lite.jpg" class="img-responsive" alt="prebasica san jose del carmen"></a>
                                 </div>
                                 <div class="news-content-holder">
                                     <!-- <h3>  <a style="cursor: pointer;"  data-toggle="modal" data-target="#modal_prebasica" >Pre-B&aacute;sica</a></h3> -->
