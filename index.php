@@ -75,7 +75,7 @@
                 <div id="ensign-nivoslider-3" class="slides">
                     <img src="img/slider/sanjosedelcarmen5_lite.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
                     <img src="img/slider/sanjosedelcarmen11_lite.png" alt="sanjosedelcarmen" title="#slider-direction-1" />
-                    <img src="img/slider/sanjosedelcarmen2_lite.PNG" alt="sanjosedelcarmen" title="#slider-direction-2" />                   
+                    <img src="img/slider/sanjosedelcarmen2_lite.png" alt="sanjosedelcarmen" title="#slider-direction-2" />                   
                     <!-- <img src="img/slider/sanjosedelcarmen6.png" alt="sanjosedelcarmen" title="#slider-direction-3" /> -->
                     <img src="img/slider/sanjosedelcarmen4_lite.png" alt="sanjosedelcarmen" title="#slider-direction-3" />
                 </div>
