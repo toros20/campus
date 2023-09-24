@@ -87,7 +87,7 @@
                             </div>
                             <div class="content-box">
                                 <h2>Te ofrecemos</h2>
-                                <p>Modalidades de Educaci&oacute;n espa&ntilde;ol y bilingüe , Bachillerato en Humanidades y Bachillerato T&eacute;cnico Profesional en Inform&aacute;tica. Nuestras amplias instalaciones cuentan con canchas sint&eacute;ticas, con aulas modernas y docentes profesionales en sus &aacute;reas. Brindamos seguro m&eacute;dico estudiant&iacute;l, clases de computaci&oacute;n , gimnasio privado, capilla y academias art&iacute;sticas en nuestro Polideportivo.</p>
+                                <p> Bachillerato en Humanidades en las modalidades de Educaci&oacute;n Espa&ntilde;ol y Bilingüe y . Nuestras amplias instalaciones cuentan con canchas sint&eacute;ticas, con aulas modernas y docentes profesionales en sus &aacute;reas. Brindamos seguro m&eacute;dico estudiant&iacute;l, clases de computaci&oacute;n , gimnasio privado, capilla y academias art&iacute;sticas en nuestro Polideportivo.</p>
                             </div>
                         </div>
                     </div>
